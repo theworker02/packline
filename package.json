@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/packline",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pack host/line network string helpers for config audits.",
+  "bin": {
+    "packline": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/packline.git"
+  },
+  "homepage": "https://theworker02.github.io/packline/",
+  "keywords": [
+    "pack",
+    "line",
+    "net",
+    "cli",
+    "toolkit"
+  ]
+}
